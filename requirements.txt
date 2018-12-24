@@ -1,6 +1,16 @@
+amqp==1.4.9
+anyjson==0.3.3
+billiard==3.3.0.23
+blinker==1.4
+celery==3.1.17
 Click==7.0
 Flask==1.0.2
+Flask-Mail==0.9.1
 itsdangerous==1.1.0
 Jinja2==2.10
+kombu==3.0.37
 MarkupSafe==1.1.0
+pytz==2018.7
+redis==2.10.3
+vine==1.1.4
 Werkzeug==0.14.1
