@@ -4,7 +4,7 @@ billiard==3.3.0.23
 blinker==1.4
 celery==5.2.2
 Click==7.0
-Flask==1.0.2
+Flask==2.2.5
 Flask-Mail==0.9.1
 itsdangerous==1.1.0
 Jinja2==2.10
